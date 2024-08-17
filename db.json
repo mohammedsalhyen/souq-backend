@@ -18,5 +18,48 @@
       "image":"https://res.cloudinary.com/dw8tg6qif/image/upload/v1723898957/banner1.webp"
     }
   ],
-  "products":[]
+  "products":[
+    {
+  "id": "1",
+  "name": "Wireless Headphones",
+  "description": "High-quality wireless headphones with noise cancellation and 20 hours of battery life.",
+  "price": 149.99,
+  "discount": {
+    "percentage": 10,
+    "discounted_price": 134.99
+  },
+  "category": "Electronics",
+  "brand": "TechBrand",
+  "images": [
+    "https://res.cloudinary.com/dw8tg6qif/image/upload/v1723898957/banner1.webp",
+    "https://res.cloudinary.com/dw8tg6qif/image/upload/v1723908391/banner2.webp",
+    "https://res.cloudinary.com/dw8tg6qif/image/upload/v1723919424/a205aaa5ac2c75342801e683c3b78ea2fff8913b-600x600_vjlcgx.webp",
+    "https://res.cloudinary.com/dw8tg6qif/image/upload/v1723919537/82ad0a754a506295f243c53e205a5a47bfd81355-800x800_vgmmkn.webp"
+  ],
+  "videos": [
+  ],
+  "available_colors": ["Black", "White", "Blue"],
+  "materials": ["Plastic", "Metal", "Foam"],
+  "model_number": "TB-WH1000",
+  "sku": "TB-WH1000-BLK",
+  "availability": "In Stock",
+  "stock_quantity": 50,
+  "shipping_options": [
+    "Standard Shipping",
+    "Express Shipping"
+  ],
+  "reviews": [],
+  "warranty": "2 years",
+  "accessories": [
+    "Charging Cable",
+    "Carrying Case"
+  ],
+  "compatibility": [
+    "Bluetooth 4.0 and above",
+    "iOS and Android devices"
+  ],
+  "available_sizes": [],
+  "user_manual": "https://example.com/manuals/product1-user-manual.pdf"
+},
+  ]
 }
