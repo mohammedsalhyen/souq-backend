@@ -1,0 +1,13 @@
+{
+  "name": "souq-backend",
+  "version": "1.0.0",
+  "description": "Backend for souq application using JSON Server and json-server-auth",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "json-server": "^0.17.0",
+    "json-server-auth": "^2.1.0"
+  }
+}
