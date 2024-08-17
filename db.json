@@ -9,6 +9,13 @@
       "discount":"70%",
       "price":"186$",
       "image":"https://res.cloudinary.com/dw8tg6qif/image/upload/v1723898957/banner1.webp"
+    },
+    {
+      "title":"Wireless Freedom",
+      "description":" Block out the world and focus on your music with active noise cancellation technology",
+      "discount":"70%",
+      "price":"186$",
+      "image":"https://res.cloudinary.com/dw8tg6qif/image/upload/v1723898957/banner1.webp"
     }
   ],
   "products":[]
