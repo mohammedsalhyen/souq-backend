@@ -340,7 +340,7 @@
       "images": [
         "https://res.cloudinary.com/dw8tg6qif/image/upload/v1723898376/samples/ecommerce/shoes.png",
         "https://res.cloudinary.com/dw8tg6qif/image/upload/v1723898382/samples/shoe.jpg",
-        "https://res.cloudinary.com/dw8tg6qif/image/upload/v1723898386/cld-sample-5.jpg",     
+        "https://res.cloudinary.com/dw8tg6qif/image/upload/v1723898386/cld-sample-5.jpg"   
       ],
       "videos": [],
       "available_colors": ["Black", "Red", "Blue"],
