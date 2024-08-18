@@ -70,8 +70,9 @@
       "category": "Electronics",
       "brand": "SmartTech",
       "images": [
-        "https://example.com/images/smartphone1.jpg",
-        "https://example.com/images/smartphone2.jpg"
+        "https://res.cloudinary.com/dw8tg6qif/image/upload/v1723969838/electronic-store-product-image-22_zd5yot.jpg",
+        "https://res.cloudinary.com/dw8tg6qif/image/upload/v1723969861/electronic-store-product-gallery-image-26_m6rtof.jpg",
+        "https://res.cloudinary.com/dw8tg6qif/image/upload/v1723969817/electronic-store-product-gallery-image-19-600x600_ob1gmd.jpg"
       ],
       "videos": [],
       "available_colors": ["Black", "Silver", "Gold"],
@@ -108,8 +109,10 @@
       "category": "Electronics",
       "brand": "SmartTech",
       "images": [
-        "https://example.com/images/smartphone3.jpg",
-        "https://example.com/images/smartphone4.jpg"
+        "https://res.cloudinary.com/dw8tg6qif/image/upload/v1723917940/electronic-store-category-image-02_xxsqyv.jpg",
+        "https://res.cloudinary.com/dw8tg6qif/image/upload/v1723969838/electronic-store-product-image-22_zd5yot.jpg",
+        "https://res.cloudinary.com/dw8tg6qif/image/upload/v1723969861/electronic-store-product-gallery-image-26_m6rtof.jpg",
+        "https://res.cloudinary.com/dw8tg6qif/image/upload/v1723969817/electronic-store-product-gallery-image-19-600x600_ob1gmd.jpg"
       ],
       "videos": [],
       "available_colors": ["Black", "Blue"],
@@ -146,8 +149,9 @@
       "category": "Appliances",
       "brand": "HomeTech",
       "images": [
-        "https://example.com/images/microwave1.jpg",
-        "https://example.com/images/microwave2.jpg"
+        "https://res.cloudinary.com/dw8tg6qif/image/upload/v1723970149/electronic-store-product-image-3_s8f4tu.jpg",
+        "https://res.cloudinary.com/dw8tg6qif/image/upload/v1723970121/electronic-store-product-gallery-image-9_vxtg7f.jpg",
+        "https://res.cloudinary.com/dw8tg6qif/image/upload/v1723918360/electronic-store-product-gallery-image-13-300x300_xpk2u8.jpg"
       ],
       "videos": [],
       "available_colors": ["Black", "Silver"],
@@ -182,8 +186,8 @@
       "category": "Appliances",
       "brand": "HomeTech",
       "images": [
-        "https://example.com/images/fridge1.jpg",
-        "https://example.com/images/fridge2.jpg"
+        "https://res.cloudinary.com/dw8tg6qif/image/upload/v1723970312/electronic-store-product-gallery-image-31_kewvu1.jpg",
+        "https://res.cloudinary.com/dw8tg6qif/image/upload/v1723970296/electronic-store-product-image-6_tgx5qg.jpg"
       ],
       "videos": [],
       "available_colors": ["White", "Stainless Steel"],
@@ -218,8 +222,8 @@
       "category": "Wearables",
       "brand": "WearTech",
       "images": [
-        "https://example.com/images/watch1.jpg",
-        "https://example.com/images/watch2.jpg"
+        "https://res.cloudinary.com/dw8tg6qif/image/upload/v1723918603/choce_watch1_vz3bez.webp",
+        "https://res.cloudinary.com/dw8tg6qif/image/upload/v1723898376/samples/ecommerce/analog-classic.jpg"
       ],
       "videos": [],
       "available_colors": ["Black", "Silver"],
@@ -256,8 +260,7 @@
       "category": "Wearables",
       "brand": "WearTech",
       "images": [
-        "https://example.com/images/watch3.jpg",
-        "https://example.com/images/watch4.jpg"
+        "https://res.cloudinary.com/dw8tg6qif/image/upload/v1723898376/samples/ecommerce/analog-classic.jpg"
       ],
       "videos": [],
       "available_colors": ["Black", "Rose Gold"],
@@ -294,8 +297,11 @@
       "category": "Electronics",
       "brand": "CamPro",
       "images": [
-        "https://example.com/images/camera1.jpg",
-        "https://example.com/images/camera2.jpg"
+        "https://res.cloudinary.com/dw8tg6qif/image/upload/v1723918416/electronic-store-product-gallery-image-16-300x300_agwhht.jpg",
+        "https://res.cloudinary.com/dw8tg6qif/image/upload/v1723970582/electronic-store-product-gallery-image-4_rtvtfj.jpg",
+        "https://res.cloudinary.com/dw8tg6qif/image/upload/v1723970618/electronic-store-product-gallery-image-10_jkpzb8.jpg",
+        "https://res.cloudinary.com/dw8tg6qif/image/upload/v1723970706/electronic-store-product-gallery-image-5_zj21ck.jpg",
+        "https://res.cloudinary.com/dw8tg6qif/image/upload/v1723970605/electronic-store-product-image-26_d9qzmc.jpg"
       ],
       "videos": [],
       "available_colors": ["Black"],
@@ -332,8 +338,9 @@
       "category": "Footwear",
       "brand": "FitFeet",
       "images": [
-        "https://example.com/images/shoes1.jpg",
-        "https://example.com/images/shoes2.jpg"
+        "https://res.cloudinary.com/dw8tg6qif/image/upload/v1723898376/samples/ecommerce/shoes.png",
+        "https://res.cloudinary.com/dw8tg6qif/image/upload/v1723898382/samples/shoe.jpg",
+        "https://res.cloudinary.com/dw8tg6qif/image/upload/v1723898386/cld-sample-5.jpg",     
       ],
       "videos": [],
       "available_colors": ["Black", "Red", "Blue"],
@@ -365,8 +372,8 @@
       "category": "Furniture",
       "brand": "OfficeComfort",
       "images": [
-        "https://example.com/images/chair1.jpg",
-        "https://example.com/images/chair2.jpg"
+        "https://res.cloudinary.com/dw8tg6qif/image/upload/v1723898384/samples/chair.png",
+        "https://res.cloudinary.com/dw8tg6qif/image/upload/v1723898384/samples/chair-and-coffee-table.jpg"
       ],
       "videos": [],
       "available_colors": ["Black", "Gray"],
