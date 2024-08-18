@@ -1,65 +1,393 @@
 {
-  "users": [
-    
-  ],
-  "banners":[
+  "users": [],
+  "banners": [
     {
-      "title":"Wireless Freedom",
-      "description":" Block out the world and focus on your music with active noise cancellation technology",
-      "discount":"70%",
-      "price":"186$",
-      "image":"https://res.cloudinary.com/dw8tg6qif/image/upload/v1723908391/banner2.webp"
+      "title": "Wireless Freedom",
+      "description": "Block out the world and focus on your music with active noise cancellation technology",
+      "discount": "70%",
+      "price": "186$",
+      "image": "https://res.cloudinary.com/dw8tg6qif/image/upload/v1723908391/banner2.webp"
     },
     {
-      "title":"Wireless Freedom",
-      "description":" Block out the world and focus on your music with active noise cancellation technology",
-      "discount":"70%",
-      "price":"186$",
-      "image":"https://res.cloudinary.com/dw8tg6qif/image/upload/v1723898957/banner1.webp"
+      "title": "Wireless Freedom",
+      "description": "Block out the world and focus on your music with active noise cancellation technology",
+      "discount": "70%",
+      "price": "186$",
+      "image": "https://res.cloudinary.com/dw8tg6qif/image/upload/v1723898957/banner1.webp"
     }
   ],
-  "products":[
+  "products": [
     {
-  "id": "1",
-  "name": "Wireless Headphones",
-  "description": "High-quality wireless headphones with noise cancellation and 20 hours of battery life.",
-  "price": 149.99,
-  "discount": {
-    "percentage": 10,
-    "discounted_price": 134.99
-  },
-  "category": "Electronics",
-  "brand": "TechBrand",
-  "images": [
-    "https://res.cloudinary.com/dw8tg6qif/image/upload/v1723898957/banner1.webp",
-    "https://res.cloudinary.com/dw8tg6qif/image/upload/v1723908391/banner2.webp",
-    "https://res.cloudinary.com/dw8tg6qif/image/upload/v1723919424/a205aaa5ac2c75342801e683c3b78ea2fff8913b-600x600_vjlcgx.webp",
-    "https://res.cloudinary.com/dw8tg6qif/image/upload/v1723919537/82ad0a754a506295f243c53e205a5a47bfd81355-800x800_vgmmkn.webp"
-  ],
-  "videos": [
-  ],
-  "available_colors": ["Black", "White", "Blue"],
-  "materials": ["Plastic", "Metal", "Foam"],
-  "model_number": "TB-WH1000",
-  "sku": "TB-WH1000-BLK",
-  "availability": "In Stock",
-  "stock_quantity": 50,
-  "shipping_options": [
-    "Standard Shipping",
-    "Express Shipping"
-  ],
-  "reviews": [],
-  "warranty": "2 years",
-  "accessories": [
-    "Charging Cable",
-    "Carrying Case"
-  ],
-  "compatibility": [
-    "Bluetooth 4.0 and above",
-    "iOS and Android devices"
-  ],
-  "available_sizes": [],
-  "user_manual": "https://example.com/manuals/product1-user-manual.pdf"
-},
+      "id": "1",
+      "name": "Wireless Headphones",
+      "description": "High-quality wireless headphones with noise cancellation and 20 hours of battery life.",
+      "price": 149.99,
+      "discount": {
+        "percentage": 10,
+        "discounted_price": 134.99
+      },
+      "category": "Electronics",
+      "brand": "TechBrand",
+      "images": [
+        "https://res.cloudinary.com/dw8tg6qif/image/upload/v1723898957/banner1.webp",
+        "https://res.cloudinary.com/dw8tg6qif/image/upload/v1723908391/banner2.webp",
+        "https://res.cloudinary.com/dw8tg6qif/image/upload/v1723919424/a205aaa5ac2c75342801e683c3b78ea2fff8913b-600x600_vjlcgx.webp",
+        "https://res.cloudinary.com/dw8tg6qif/image/upload/v1723919537/82ad0a754a506295f243c53e205a5a47bfd81355-800x800_vgmmkn.webp"
+      ],
+      "videos": [],
+      "available_colors": ["Black", "White", "Blue"],
+      "materials": ["Plastic", "Metal", "Foam"],
+      "model_number": "TB-WH1000",
+      "sku": "TB-WH1000-BLK",
+      "availability": "In Stock",
+      "stock_quantity": 50,
+      "shipping_options": [
+        "Standard Shipping",
+        "Express Shipping"
+      ],
+      "reviews": [],
+      "warranty": "2 years",
+      "accessories": [
+        "Charging Cable",
+        "Carrying Case"
+      ],
+      "compatibility": [
+        "Bluetooth 4.0 and above",
+        "iOS and Android devices"
+      ],
+      "available_sizes": [],
+      "user_manual": "https://example.com/manuals/product1-user-manual.pdf"
+    },
+    {
+      "id": "2",
+      "name": "Smartphone Model X",
+      "description": "Latest smartphone with 6.5-inch display, dual cameras, and 128GB storage.",
+      "price": 799.99,
+      "discount": {
+        "percentage": 5,
+        "discounted_price": 759.99
+      },
+      "category": "Electronics",
+      "brand": "SmartTech",
+      "images": [
+        "https://example.com/images/smartphone1.jpg",
+        "https://example.com/images/smartphone2.jpg"
+      ],
+      "videos": [],
+      "available_colors": ["Black", "Silver", "Gold"],
+      "materials": ["Glass", "Aluminum"],
+      "model_number": "ST-MX2024",
+      "sku": "ST-MX2024-BLK",
+      "availability": "In Stock",
+      "stock_quantity": 100,
+      "shipping_options": [
+        "Standard Shipping",
+        "Express Shipping"
+      ],
+      "reviews": [],
+      "warranty": "1 year",
+      "accessories": [
+        "Charger",
+        "Earphones"
+      ],
+      "compatibility": [
+        "iOS and Android devices"
+      ],
+      "available_sizes": [],
+      "user_manual": "https://example.com/manuals/smartphone1-user-manual.pdf"
+    },
+    {
+      "id": "3",
+      "name": "Smartphone Model Y",
+      "description": "Compact smartphone with 5.8-inch display, triple cameras, and 64GB storage.",
+      "price": 699.99,
+      "discount": {
+        "percentage": 8,
+        "discounted_price": 643.99
+      },
+      "category": "Electronics",
+      "brand": "SmartTech",
+      "images": [
+        "https://example.com/images/smartphone3.jpg",
+        "https://example.com/images/smartphone4.jpg"
+      ],
+      "videos": [],
+      "available_colors": ["Black", "Blue"],
+      "materials": ["Glass", "Aluminum"],
+      "model_number": "ST-MY2024",
+      "sku": "ST-MY2024-BLK",
+      "availability": "In Stock",
+      "stock_quantity": 150,
+      "shipping_options": [
+        "Standard Shipping",
+        "Express Shipping"
+      ],
+      "reviews": [],
+      "warranty": "1 year",
+      "accessories": [
+        "Charger",
+        "Earphones"
+      ],
+      "compatibility": [
+        "iOS and Android devices"
+      ],
+      "available_sizes": [],
+      "user_manual": "https://example.com/manuals/smartphone2-user-manual.pdf"
+    },
+    {
+      "id": "4",
+      "name": "Microwave Oven 1000W",
+      "description": "Efficient microwave oven with 10 power levels and defrost function.",
+      "price": 129.99,
+      "discount": {
+        "percentage": 15,
+        "discounted_price": 110.49
+      },
+      "category": "Appliances",
+      "brand": "HomeTech",
+      "images": [
+        "https://example.com/images/microwave1.jpg",
+        "https://example.com/images/microwave2.jpg"
+      ],
+      "videos": [],
+      "available_colors": ["Black", "Silver"],
+      "materials": ["Stainless Steel", "Plastic"],
+      "model_number": "HT-MW1000",
+      "sku": "HT-MW1000-SLV",
+      "availability": "In Stock",
+      "stock_quantity": 70,
+      "shipping_options": [
+        "Standard Shipping",
+        "Express Shipping"
+      ],
+      "reviews": [],
+      "warranty": "2 years",
+      "accessories": [
+        "Glass Turntable",
+        "Instruction Manual"
+      ],
+      "compatibility": [],
+      "available_sizes": [],
+      "user_manual": "https://example.com/manuals/microwave1-user-manual.pdf"
+    },
+    {
+      "id": "5",
+      "name": "Double-Door Refrigerator",
+      "description": "Spacious double-door refrigerator with frost-free technology and adjustable shelves.",
+      "price": 999.99,
+      "discount": {
+        "percentage": 10,
+        "discounted_price": 899.99
+      },
+      "category": "Appliances",
+      "brand": "HomeTech",
+      "images": [
+        "https://example.com/images/fridge1.jpg",
+        "https://example.com/images/fridge2.jpg"
+      ],
+      "videos": [],
+      "available_colors": ["White", "Stainless Steel"],
+      "materials": ["Stainless Steel", "Plastic"],
+      "model_number": "HT-RF2024",
+      "sku": "HT-RF2024-SS",
+      "availability": "In Stock",
+      "stock_quantity": 40,
+      "shipping_options": [
+        "Standard Shipping",
+        "Express Shipping"
+      ],
+      "reviews": [],
+      "warranty": "3 years",
+      "accessories": [
+        "Ice Maker",
+        "Water Filter"
+      ],
+      "compatibility": [],
+      "available_sizes": [],
+      "user_manual": "https://example.com/manuals/fridge1-user-manual.pdf"
+    },
+    {
+      "id": "6",
+      "name": "Smart Watch Pro",
+      "description": "Advanced smartwatch with heart rate monitor, GPS, and 5-day battery life.",
+      "price": 249.99,
+      "discount": {
+        "percentage": 20,
+        "discounted_price": 199.99
+      },
+      "category": "Wearables",
+      "brand": "WearTech",
+      "images": [
+        "https://example.com/images/watch1.jpg",
+        "https://example.com/images/watch2.jpg"
+      ],
+      "videos": [],
+      "available_colors": ["Black", "Silver"],
+      "materials": ["Aluminum", "Silicone"],
+      "model_number": "WT-SWPRO",
+      "sku": "WT-SWPRO-BLK",
+      "availability": "In Stock",
+      "stock_quantity": 200,
+      "shipping_options": [
+        "Standard Shipping",
+        "Express Shipping"
+      ],
+      "reviews": [],
+      "warranty": "1 year",
+      "accessories": [
+        "Charging Cable",
+        "Extra Strap"
+      ],
+      "compatibility": [
+        "iOS and Android devices"
+      ],
+      "available_sizes": [],
+      "user_manual": "https://example.com/manuals/watch1-user-manual.pdf"
+    },
+    {
+      "id": "7",
+      "name": "Smart Watch Lite",
+      "description": "Lightweight smartwatch with fitness tracking and 3-day battery life.",
+      "price": 149.99,
+      "discount": {
+        "percentage": 10,
+        "discounted_price": 134.99
+      },
+      "category": "Wearables",
+      "brand": "WearTech",
+      "images": [
+        "https://example.com/images/watch3.jpg",
+        "https://example.com/images/watch4.jpg"
+      ],
+      "videos": [],
+      "available_colors": ["Black", "Rose Gold"],
+      "materials": ["Aluminum", "Silicone"],
+      "model_number": "WT-SWLITE",
+      "sku": "WT-SWLITE-BLK",
+      "availability": "In Stock",
+      "stock_quantity": 250,
+      "shipping_options": [
+        "Standard Shipping",
+        "Express Shipping"
+      ],
+      "reviews": [],
+      "warranty": "1 year",
+      "accessories": [
+        "Charging Cable",
+        "Extra Strap"
+      ],
+      "compatibility": [
+        "iOS and Android devices"
+      ],
+      "available_sizes": [],
+      "user_manual": "https://example.com/manuals/watch2-user-manual.pdf"
+    },
+    {
+      "id": "8",
+      "name": "Digital Camera 24MP",
+      "description": "High-resolution digital camera with 24MP sensor and 4K video recording.",
+      "price": 599.99,
+      "discount": {
+        "percentage": 15,
+        "discounted_price": 509.99
+      },
+      "category": "Electronics",
+      "brand": "CamPro",
+      "images": [
+        "https://example.com/images/camera1.jpg",
+        "https://example.com/images/camera2.jpg"
+      ],
+      "videos": [],
+      "available_colors": ["Black"],
+      "materials": ["Plastic", "Metal"],
+      "model_number": "CP-D24K",
+      "sku": "CP-D24K-BLK",
+      "availability": "In Stock",
+      "stock_quantity": 80,
+      "shipping_options": [
+        "Standard Shipping",
+        "Express Shipping"
+      ],
+      "reviews": [],
+      "warranty": "2 years",
+      "accessories": [
+        "Lens Cap",
+        "Carrying Case"
+      ],
+      "compatibility": [
+        "SD Cards"
+      ],
+      "available_sizes": [],
+      "user_manual": "https://example.com/manuals/camera1-user-manual.pdf"
+    },
+    {
+      "id": "9",
+      "name": "Running Shoes",
+      "description": "Comfortable running shoes with breathable mesh upper and cushioned sole.",
+      "price": 89.99,
+      "discount": {
+        "percentage": 10,
+        "discounted_price": 80.99
+      },
+      "category": "Footwear",
+      "brand": "FitFeet",
+      "images": [
+        "https://example.com/images/shoes1.jpg",
+        "https://example.com/images/shoes2.jpg"
+      ],
+      "videos": [],
+      "available_colors": ["Black", "Red", "Blue"],
+      "materials": ["Mesh", "Rubber"],
+      "model_number": "FF-RS2024",
+      "sku": "FF-RS2024-BLK",
+      "availability": "In Stock",
+      "stock_quantity": 300,
+      "shipping_options": [
+        "Standard Shipping",
+        "Express Shipping"
+      ],
+      "reviews": [],
+      "warranty": "6 months",
+      "accessories": [],
+      "compatibility": [],
+      "available_sizes": ["7", "8", "9", "10", "11"],
+      "user_manual": "https://example.com/manuals/shoes1-user-manual.pdf"
+    },
+    {
+      "id": "10",
+      "name": "Ergonomic Office Chair",
+      "description": "Comfortable ergonomic office chair with adjustable height and lumbar support.",
+      "price": 249.99,
+      "discount": {
+        "percentage": 12,
+        "discounted_price": 219.99
+      },
+      "category": "Furniture",
+      "brand": "OfficeComfort",
+      "images": [
+        "https://example.com/images/chair1.jpg",
+        "https://example.com/images/chair2.jpg"
+      ],
+      "videos": [],
+      "available_colors": ["Black", "Gray"],
+      "materials": ["Mesh", "Plastic", "Metal"],
+      "model_number": "OC-ERGO2024",
+      "sku": "OC-ERGO2024-BLK",
+      "availability": "In Stock",
+      "stock_quantity": 150,
+      "shipping_options": [
+        "Standard Shipping",
+        "Express Shipping"
+      ],
+      "reviews": [],
+      "warranty": "1 year",
+      "accessories": [
+        "Assembly Instructions",
+        "Extra Screws"
+      ],
+      "compatibility": [],
+      "available_sizes": [],
+      "user_manual": "https://example.com/manuals/chair1-user-manual.pdf"
+    }
   ]
 }
