@@ -65,10 +65,6 @@
       "description": "Latest smartphone with 6.5-inch display, dual cameras, and 128GB storage.",
       "price": 799.99,
       "createdAt": "2024-08-18T12:34:56Z",
-      "discount": {
-        "percentage": 5,
-        "discounted_price": 759.99
-      },
       "category": "Electronics",
       "brand": "SmartTech",
       "images": [
