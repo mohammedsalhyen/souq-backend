@@ -46,7 +46,7 @@
         "Standard Shipping",
         "Express Shipping"
       ],
-      "reviews": [],
+      "rating": 5,
       "warranty": "2 years",
       "accessories": [
         "Charging Cable",
@@ -83,7 +83,7 @@
         "Standard Shipping",
         "Express Shipping"
       ],
-      "reviews": [],
+      "rating": 3.5,
       "warranty": "1 year",
       "accessories": [
         "Charger",
@@ -124,7 +124,7 @@
         "Standard Shipping",
         "Express Shipping"
       ],
-      "reviews": [],
+      "rating": 5,
       "warranty": "1 year",
       "accessories": [
         "Charger",
@@ -201,7 +201,7 @@
         "Standard Shipping",
         "Express Shipping"
       ],
-      "reviews": [],
+      "rating": 4,
       "warranty": "3 years",
       "accessories": [
         "Ice Maker",
@@ -238,7 +238,7 @@
         "Standard Shipping",
         "Express Shipping"
       ],
-      "reviews": [],
+      "rating": 4.5,
       "warranty": "1 year",
       "accessories": [
         "Charging Cable",
@@ -276,7 +276,7 @@
         "Standard Shipping",
         "Express Shipping"
       ],
-      "reviews": [],
+      "rating": 5,
       "warranty": "1 year",
       "accessories": [
         "Charging Cable",
@@ -318,7 +318,7 @@
         "Standard Shipping",
         "Express Shipping"
       ],
-      "reviews": [],
+      "rating": 5,
       "warranty": "2 years",
       "accessories": [
         "Lens Cap",
@@ -358,7 +358,7 @@
         "Standard Shipping",
         "Express Shipping"
       ],
-      "reviews": [],
+      "rating": 4.5,
       "warranty": "6 months",
       "accessories": [],
       "compatibility": [],
@@ -392,7 +392,7 @@
         "Standard Shipping",
         "Express Shipping"
       ],
-      "reviews": [],
+      "rating": 5,
       "warranty": "1 year",
       "accessories": [
         "Assembly Instructions",
