@@ -22,6 +22,7 @@
       "name": "Wireless Headphones",
       "description": "High-quality wireless headphones with noise cancellation and 20 hours of battery life.",
       "price": 149.99,
+      "createdAt": "2024-08-18T12:34:56Z",
       "discount": {
         "percentage": 10,
         "discounted_price": 134.99
@@ -63,6 +64,7 @@
       "name": "Smartphone Model X",
       "description": "Latest smartphone with 6.5-inch display, dual cameras, and 128GB storage.",
       "price": 799.99,
+      "createdAt": "2024-08-18T12:34:56Z",
       "discount": {
         "percentage": 5,
         "discounted_price": 759.99
@@ -102,6 +104,7 @@
       "name": "Smartphone Model Y",
       "description": "Compact smartphone with 5.8-inch display, triple cameras, and 64GB storage.",
       "price": 699.99,
+      "createdAt": "2024-08-18T12:34:56Z",
       "discount": {
         "percentage": 8,
         "discounted_price": 643.99
@@ -142,6 +145,7 @@
       "name": "Microwave Oven 1000W",
       "description": "Efficient microwave oven with 10 power levels and defrost function.",
       "price": 129.99,
+      "createdAt": "2024-08-07T12:34:56Z",
       "discount": {
         "percentage": 15,
         "discounted_price": 110.49
@@ -179,6 +183,7 @@
       "name": "Double-Door Refrigerator",
       "description": "Spacious double-door refrigerator with frost-free technology and adjustable shelves.",
       "price": 999.99,
+      "createdAt": "2024-08-01T12:34:56Z",
       "discount": {
         "percentage": 10,
         "discounted_price": 899.99
@@ -215,6 +220,7 @@
       "name": "Smart Watch Pro",
       "description": "Advanced smartwatch with heart rate monitor, GPS, and 5-day battery life.",
       "price": 249.99,
+      "createdAt": "2024-04-18T12:34:56Z",
       "discount": {
         "percentage": 20,
         "discounted_price": 199.99
@@ -253,6 +259,7 @@
       "name": "Smart Watch Lite",
       "description": "Lightweight smartwatch with fitness tracking and 3-day battery life.",
       "price": 149.99,
+      "createdAt": "2024-08-18T12:34:56Z",
       "discount": {
         "percentage": 10,
         "discounted_price": 134.99
@@ -290,6 +297,7 @@
       "name": "Digital Camera 24MP",
       "description": "High-resolution digital camera with 24MP sensor and 4K video recording.",
       "price": 599.99,
+      "createdAt": "2024-08-03T12:34:56Z",
       "discount": {
         "percentage": 15,
         "discounted_price": 509.99
@@ -331,6 +339,7 @@
       "name": "Running Shoes",
       "description": "Comfortable running shoes with breathable mesh upper and cushioned sole.",
       "price": 89.99,
+      "createdAt": "2024-01-18T12:34:56Z",
       "discount": {
         "percentage": 10,
         "discounted_price": 80.99
@@ -365,6 +374,7 @@
       "name": "Ergonomic Office Chair",
       "description": "Comfortable ergonomic office chair with adjustable height and lumbar support.",
       "price": 249.99,
+      "createdAt": "2024-02-18T12:34:56Z",
       "discount": {
         "percentage": 12,
         "discounted_price": 219.99
