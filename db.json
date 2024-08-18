@@ -16,6 +16,13 @@
       "image": "https://res.cloudinary.com/dw8tg6qif/image/upload/v1723898957/banner1.webp"
     }
   ],
+  "ad":{
+      "title": "Smart Watch",
+      "description": "a perfect fusion of style and precision. Crafted with meticulous attention to detail, this watch is more than an accessory; it's a statement of sophistication.",
+      "discount": "40%",
+      "price": "145$",
+      "image": "https://res.cloudinary.com/dw8tg6qif/image/upload/v1724004460/5e577feda12dac0688658c0129498d058121e0f9-800x800_umxnsw.webp"
+    },
   "products": [
     {
       "id": "1",
