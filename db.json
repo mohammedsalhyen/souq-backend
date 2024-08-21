@@ -1,5 +1,112 @@
 {
-  "users": [],
+  "users": [
+            {
+            "id": 1,
+            "sellerName": "Tech World",
+            "sellerRating": 4.8,
+            "sellerLocation": "Lybia, bengazy",
+            "sellerContact": {
+                "email": "info@techworld.com",
+                "phone": "+1 555-123-4567"
+            },
+            "storeDescription": "Tech World offers the latest gadgets, electronics, and accessories at competitive prices. With a passion for technology, we aim to provide high-quality products and exceptional customer service.",
+            "image":"https://res.cloudinary.com/dw8tg6qif/image/upload/v1724231090/instagram-shop-logo-design_23-2149816231_ssjhdk.avif"
+            "totalProductsSold": 1350,
+            "activeListings": 45,
+            "dateJoined": "2020-05-15",
+            "socialMediaLinks": {
+                "facebook": "https://facebook.com/techworld",
+                "twitter": "https://twitter.com/techworld",
+                "instagram": "https://instagram.com/techworld"
+            },
+            "shippingPolicies": "We offer free standard shipping on all orders over $50. Expedited shipping is available at an additional cost. Orders are processed within 1-2 business days.",
+            "returnPolicies": "We accept returns within 30 days of purchase. Items must be in original condition and packaging. Please contact us for return authorization before sending items back.",
+            "badges": [
+                "Top Seller",
+                "Verified Seller",
+                "Fast Responder"
+            ]
+        },
+        {
+            "id": 2,
+            "sellerName": "Fashion Hub",
+            "sellerRating": 4.5,
+            "sellerLocation": "Lybia,Mesrata",
+            "sellerContact": {
+                "email": "support@fashionhub.fr",
+                "phone": "+33 1 23 45 67 89"
+            },
+            "storeDescription": "Fashion Hub is your destination for the latest in fashion trends. We bring you high-quality clothing, shoes, and accessories at affordable prices.",
+            "image":"https://res.cloudinary.com/dw8tg6qif/image/upload/v1724231127/gradient-instagram-shop-logo-template_23-2149709632_p1dk8b.avif"
+            "totalProductsSold": 2200,
+            "activeListings": 120,
+            "dateJoined": "2018-11-30",
+            "socialMediaLinks": {
+                "facebook": "https://facebook.com/fashionhub",
+                "twitter": "https://twitter.com/fashionhub",
+                "instagram": "https://instagram.com/fashionhub"
+            },
+            "shippingPolicies": "Free shipping on orders over €100. Standard shipping costs €5. Orders processed within 2-3 business days.",
+            "returnPolicies": "Returns accepted within 14 days of delivery. Items must be unworn and in original condition. Please contact us for return instructions.",
+            "badges": [
+                "Verified Seller",
+                "Top Rated"
+            ]
+        },
+        {
+            "id": 3,
+            "sellerName": "Home Essentials",
+            "sellerRating": 4.9,
+            "sellerLocation": "Lybia, Traplois",
+            "sellerContact": {
+                "email": "contact@homeessentials.co.uk",
+                "phone": "+44 20 7946 0958"
+            },
+            "storeDescription": "Home Essentials specializes in premium quality home goods, ranging from kitchenware to home decor. Our mission is to make your house a home with our curated collection.",
+            "image":"https://res.cloudinary.com/dw8tg6qif/image/upload/v1724231098/gradient-instagram-shop-logo-template_23-2149704603_vde5wi.avif"
+            "totalProductsSold": 3400,
+            "activeListings": 75,
+            "dateJoined": "2019-03-22",
+            "socialMediaLinks": {
+                "facebook": "https://facebook.com/homeessentials",
+                "twitter": "https://twitter.com/homeessentials",
+                "instagram": "https://instagram.com/homeessentials"
+            },
+            "shippingPolicies": "Free shipping on orders over £50. Standard shipping is £4. Orders processed within 1-2 business days.",
+            "returnPolicies": "We offer a 30-day return policy for all items. Please ensure products are in their original condition.",
+            "badges": [
+                "Top Seller",
+                "Best Quality"
+            ]
+        },
+        {
+            "id": 4,
+            "sellerName": "Sports Gear Pro",
+            "sellerRating": 4.7,
+            "sellerLocation": "Egypt"
+            "sellerContact": {
+                "email": "sales@sportsgearpro.com.au",
+                "phone": "+61 2 9876 5432"
+            },
+            "storeDescription": "Sports Gear Pro is dedicated to providing top-notch sports equipment and apparel for athletes of all levels. From beginners to professionals, we have the gear you need to excel.",
+            "image":"https://res.cloudinary.com/dw8tg6qif/image/upload/v1724231072/abstract-modern-ecommerce-logo-design-colorful-gradient-shopping-bag-logo-template_467913-991_s7gjeo.avif"
+            "totalProductsSold": 2900,
+            "activeListings": 60,
+            "dateJoined": "2017-09-10",
+            "socialMediaLinks": {
+                "facebook": "https://facebook.com/sportsgearpro",
+                "twitter": "https://twitter.com/sportsgearpro",
+                "instagram": "https://instagram.com/sportsgearpro"
+            },
+            "shippingPolicies": "Standard shipping is free on orders over $75 AUD. Expedited shipping is available at an additional cost. Orders are dispatched within 2 business days.",
+            "returnPolicies": "We accept returns within 30 days for a full refund. Items must be unused and in their original packaging.",
+            "badges": [
+                "Verified Seller",
+                "Top Rated",
+                "Fast Responder"
+            ]
+        }
+  ],
   "banners": [
     {
       "title": "Wireless Freedom",
@@ -67,7 +174,8 @@
       "user_manual": "https://example.com/manuals/product1-user-manual.pdf",
       "seller": {
         "id": 2,
-        "name": "Shop online",
+        "sellerName": "Fashion Hub",
+        "sellerLocation": "Lybia, Mesrata",
         "image":"https://res.cloudinary.com/dw8tg6qif/image/upload/v1724231127/gradient-instagram-shop-logo-template_23-2149709632_p1dk8b.avif"
       }
     },
@@ -108,7 +216,8 @@
       "user_manual": "https://example.com/manuals/smartphone1-user-manual.pdf",
       "seller": {
         "id": 2,
-        "name": "Shop online",
+        "sellerName": "Fashion Hub",
+        "sellerLocation": "Lybia, Mesrata",
         "image":"https://res.cloudinary.com/dw8tg6qif/image/upload/v1724231127/gradient-instagram-shop-logo-template_23-2149709632_p1dk8b.avif"
       }
     },
@@ -154,7 +263,8 @@
       "user_manual": "https://example.com/manuals/smartphone2-user-manual.pdf",
       "seller": {
         "id": 1,
-        "name": "Shop logo",
+        "sellerName": "Tech World",
+        "sellerLocation": "Lybia, bengazy",
         "image":"https://res.cloudinary.com/dw8tg6qif/image/upload/v1724231090/instagram-shop-logo-design_23-2149816231_ssjhdk.avif"
       }
     },
@@ -197,7 +307,8 @@
       "user_manual": "https://example.com/manuals/microwave1-user-manual.pdf",
        "seller": {
         "id": 1,
-        "name": "Shop logo",
+        "sellerName": "Tech World",
+         "sellerLocation": "Lybia, bengazy",
         "image":"https://res.cloudinary.com/dw8tg6qif/image/upload/v1724231090/instagram-shop-logo-design_23-2149816231_ssjhdk.avif"
       }
     },
@@ -239,7 +350,8 @@
       "user_manual": "https://example.com/manuals/fridge1-user-manual.pdf",
        "seller": {
         "id": 3,
-        "name": "Smile Shop",
+        "sellerName": "Home Essentials",
+         "sellerLocation": "Lybia, Taraplois",
         "image":"https://res.cloudinary.com/dw8tg6qif/image/upload/v1724231098/gradient-instagram-shop-logo-template_23-2149704603_vde5wi.avif"
       }
     },
@@ -283,7 +395,8 @@
       "user_manual": "https://example.com/manuals/watch1-user-manual.pdf",
        "seller": {
         "id": 4,
-        "name": "Ecommerce",
+        "sellerName": "Sports Gear Pro",
+         "sellerLocation": "Egypt",
         "image":"https://res.cloudinary.com/dw8tg6qif/image/upload/v1724231072/abstract-modern-ecommerce-logo-design-colorful-gradient-shopping-bag-logo-template_467913-991_s7gjeo.avif"
       }
     },
@@ -326,7 +439,8 @@
       "user_manual": "https://example.com/manuals/watch2-user-manual.pdf",
        "seller": {
         "id": 3,
-        "name": "Smile Shop",
+        "sellerName": "Home Essentials",
+        "sellerLocation": "Lybia, Taraplois",
         "image":"https://res.cloudinary.com/dw8tg6qif/image/upload/v1724231098/gradient-instagram-shop-logo-template_23-2149704603_vde5wi.avif"
       }
     },
@@ -373,7 +487,8 @@
       "user_manual": "https://example.com/manuals/camera1-user-manual.pdf",
        "seller": {
         "id": 3,
-        "name": "Smile Shop",
+        "sellerName": "Home Essentials",
+         "sellerLocation": "Lybia, Taraplois",
         "image":"https://res.cloudinary.com/dw8tg6qif/image/upload/v1724231098/gradient-instagram-shop-logo-template_23-2149704603_vde5wi.avif"
       }
     },
@@ -413,7 +528,8 @@
       "user_manual": "https://example.com/manuals/shoes1-user-manual.pdf",
        "seller": {
         "id": 1,
-        "name": "Shop logo",
+        "sellerName": "Tech World",
+         "sellerLocation": "Lybia, bengazy",
         "image":"https://res.cloudinary.com/dw8tg6qif/image/upload/v1724231090/instagram-shop-logo-design_23-2149816231_ssjhdk.avif"
       }
     },
@@ -455,7 +571,8 @@
       "user_manual": "https://example.com/manuals/chair1-user-manual.pdf",
        "seller": {
         "id": 1,
-        "name": "Shop logo",
+        "sellerName": "Tech World",
+         "sellerLocation": "Lybia, bengazy",
         "image":"https://res.cloudinary.com/dw8tg6qif/image/upload/v1724231090/instagram-shop-logo-design_23-2149816231_ssjhdk.avif"
       }
     }
