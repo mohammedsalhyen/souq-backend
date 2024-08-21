@@ -64,7 +64,12 @@
         "iOS and Android devices"
       ],
       "available_sizes": [],
-      "user_manual": "https://example.com/manuals/product1-user-manual.pdf"
+      "user_manual": "https://example.com/manuals/product1-user-manual.pdf",
+      "seller": {
+        "id": 2,
+        "name": "Shop online",
+        "image":"https://res.cloudinary.com/dw8tg6qif/image/upload/v1724231127/gradient-instagram-shop-logo-template_23-2149709632_p1dk8b.avif"
+      }
     },
     {
       "id": "2",
@@ -100,7 +105,12 @@
         "iOS and Android devices"
       ],
       "available_sizes": [],
-      "user_manual": "https://example.com/manuals/smartphone1-user-manual.pdf"
+      "user_manual": "https://example.com/manuals/smartphone1-user-manual.pdf",
+      "seller": {
+        "id": 2,
+        "name": "Shop online",
+        "image":"https://res.cloudinary.com/dw8tg6qif/image/upload/v1724231127/gradient-instagram-shop-logo-template_23-2149709632_p1dk8b.avif"
+      }
     },
     {
       "id": "3",
@@ -141,7 +151,12 @@
         "iOS and Android devices"
       ],
       "available_sizes": [],
-      "user_manual": "https://example.com/manuals/smartphone2-user-manual.pdf"
+      "user_manual": "https://example.com/manuals/smartphone2-user-manual.pdf",
+      "seller": {
+        "id": 1,
+        "name": "Shop logo",
+        "image":"https://res.cloudinary.com/dw8tg6qif/image/upload/v1724231090/instagram-shop-logo-design_23-2149816231_ssjhdk.avif"
+      }
     },
     {
       "id": "4",
@@ -179,7 +194,12 @@
       ],
       "compatibility": [],
       "available_sizes": [],
-      "user_manual": "https://example.com/manuals/microwave1-user-manual.pdf"
+      "user_manual": "https://example.com/manuals/microwave1-user-manual.pdf",
+       "seller": {
+        "id": 1,
+        "name": "Shop logo",
+        "image":"https://res.cloudinary.com/dw8tg6qif/image/upload/v1724231090/instagram-shop-logo-design_23-2149816231_ssjhdk.avif"
+      }
     },
     {
       "id": "5",
@@ -216,7 +236,12 @@
       ],
       "compatibility": [],
       "available_sizes": [],
-      "user_manual": "https://example.com/manuals/fridge1-user-manual.pdf"
+      "user_manual": "https://example.com/manuals/fridge1-user-manual.pdf",
+       "seller": {
+        "id": 3,
+        "name": "Smile Shop",
+        "image":"https://res.cloudinary.com/dw8tg6qif/image/upload/v1724231098/gradient-instagram-shop-logo-template_23-2149704603_vde5wi.avif"
+      }
     },
     {
       "id": "6",
@@ -255,7 +280,12 @@
         "iOS and Android devices"
       ],
       "available_sizes": [],
-      "user_manual": "https://example.com/manuals/watch1-user-manual.pdf"
+      "user_manual": "https://example.com/manuals/watch1-user-manual.pdf",
+       "seller": {
+        "id": 4,
+        "name": "Ecommerce",
+        "image":"https://res.cloudinary.com/dw8tg6qif/image/upload/v1724231072/abstract-modern-ecommerce-logo-design-colorful-gradient-shopping-bag-logo-template_467913-991_s7gjeo.avif"
+      }
     },
     {
       "id": "7",
@@ -293,7 +323,12 @@
         "iOS and Android devices"
       ],
       "available_sizes": [],
-      "user_manual": "https://example.com/manuals/watch2-user-manual.pdf"
+      "user_manual": "https://example.com/manuals/watch2-user-manual.pdf",
+       "seller": {
+        "id": 3,
+        "name": "Smile Shop",
+        "image":"https://res.cloudinary.com/dw8tg6qif/image/upload/v1724231098/gradient-instagram-shop-logo-template_23-2149704603_vde5wi.avif"
+      }
     },
     {
       "id": "8",
@@ -335,7 +370,12 @@
         "SD Cards"
       ],
       "available_sizes": [],
-      "user_manual": "https://example.com/manuals/camera1-user-manual.pdf"
+      "user_manual": "https://example.com/manuals/camera1-user-manual.pdf",
+       "seller": {
+        "id": 3,
+        "name": "Smile Shop",
+        "image":"https://res.cloudinary.com/dw8tg6qif/image/upload/v1724231098/gradient-instagram-shop-logo-template_23-2149704603_vde5wi.avif"
+      }
     },
     {
       "id": "9",
@@ -370,7 +410,12 @@
       "accessories": [],
       "compatibility": [],
       "available_sizes": ["7", "8", "9", "10", "11"],
-      "user_manual": "https://example.com/manuals/shoes1-user-manual.pdf"
+      "user_manual": "https://example.com/manuals/shoes1-user-manual.pdf",
+       "seller": {
+        "id": 1,
+        "name": "Shop logo",
+        "image":"https://res.cloudinary.com/dw8tg6qif/image/upload/v1724231090/instagram-shop-logo-design_23-2149816231_ssjhdk.avif"
+      }
     },
     {
       "id": "10",
@@ -407,7 +452,12 @@
       ],
       "compatibility": [],
       "available_sizes": [],
-      "user_manual": "https://example.com/manuals/chair1-user-manual.pdf"
+      "user_manual": "https://example.com/manuals/chair1-user-manual.pdf",
+       "seller": {
+        "id": 1,
+        "name": "Shop logo",
+        "image":"https://res.cloudinary.com/dw8tg6qif/image/upload/v1724231090/instagram-shop-logo-design_23-2149816231_ssjhdk.avif"
+      }
     }
   ]
 }
